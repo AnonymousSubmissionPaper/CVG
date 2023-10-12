@@ -1,6 +1,6 @@
 # CVG
 
-Thank you for reviewing our paper! 
+**Thank you for reviewing our paper!**__ 
 
 Here we provide the code of CVG. Our work is submiited to ICLR 2024. 
 
