@@ -1,5 +1,7 @@
 # CVG
 
+Thank you for reviewing our paper! 
+
 Here we provide the code of CVG. Our work is submiited to ICLR 2024. 
 
 We are willing to update the code and instructions if there are any concerns!
